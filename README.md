@@ -60,7 +60,6 @@ Movix is a user-friendly website dedicated to providing an exceptional movie and
 ![](images/6.png)
 
 
-
 ### Created by
 [Rohan Shirke](https://github.com/rohanshirke00)
 
