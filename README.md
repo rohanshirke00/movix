@@ -46,7 +46,8 @@ Movix is a user-friendly website dedicated to providing an exceptional movie and
    - Enjoy a consistent and user-friendly experience on desktops, tablets, and mobiles.
 
 
-### Screenshots of the website
+## Screenshots of the website:
+
 ![](images/1.png)
 
 ![](images/2.png)
